@@ -1,0 +1,3 @@
+[submodule "content/beyond-the-syntax"]
+	path = content/beyond-the-syntax
+	url = https://github.com/bratayudha07/beyond-the-syntax.git
